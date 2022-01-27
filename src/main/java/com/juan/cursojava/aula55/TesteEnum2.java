@@ -19,7 +19,7 @@ public class TesteEnum2 {
         
         //método valeuOf retorna um Enum
         dia = Enum.valueOf(DiaSemana.class, "DOMINGO");
-        System.out.println(dia);
+        System.out.println(dia); //DOMINGO
         
     }
 }
