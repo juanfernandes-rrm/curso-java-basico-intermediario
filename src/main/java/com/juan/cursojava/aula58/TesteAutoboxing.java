@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.juan.cursojava.aula57;
+package com.juan.cursojava.aula58;
 
 /**
  *
@@ -32,7 +32,7 @@ public class TesteAutoboxing {
         Integer num14 = num13/num9;
         
         //mau uso
-        //Não utilizar wrapper se for necessário manipulações númericas
+        //Não utilizar wrapper se for necessário muitas manipulações númericas
         Double a,b,c;
         a = 10.0;
         b = 12.2;
