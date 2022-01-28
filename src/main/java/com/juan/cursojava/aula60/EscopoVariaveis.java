@@ -32,7 +32,6 @@ public class EscopoVariaveis {
         if(true){
             valor--;
         }
-        
         return valor;
     }
 }
