@@ -20,6 +20,14 @@ public class Aula75 {
         char[] charsJava = {'J','A','V','A'};
         String java2 = new String(charsJava);
         
+        char[] abcdef = {'A','B','C','D','E','F'};
+        String abc = new String(abcdef, 0, 2); //abc
         
+        //tabela ascii
+        byte[] ascii = {65, 66, 67, 68, 69};
+        String abcde = new String(ascii);
+        
+        String java3 = "JAVA";
+        String java4 = "JAVA";
     }
 }
