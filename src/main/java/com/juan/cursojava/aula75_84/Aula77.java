@@ -32,5 +32,7 @@ public class Aula77 {
         byte[] javByte = new byte[3];
         java.getBytes(0, 3, javByte, 0);
         System.out.println(Arrays.toString(javByte));
+    
+        char[] javaChars = java.toCharArray();
     }
 }
