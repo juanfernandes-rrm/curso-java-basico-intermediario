@@ -34,5 +34,9 @@ public class Aula80 {
         semEspacos.replaceAll(" ", "");
         System.out.println(semEspacos);
         
+        //trim - retira espaço do começo e do fim de uma string
+        String nome = " meu nome é: ";
+        System.out.println(nome.trim());
+        
     }
 }
