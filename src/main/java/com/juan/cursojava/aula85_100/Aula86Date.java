@@ -17,5 +17,6 @@ public class Aula86Date {
         System.out.println(hoje);
         
         System.out.println("Quantidade de milisegundos desde 1 jan 1970"+ hoje.getTime());
+        System.out.println(hoje.getDay()); //retorna o dia do mês
     }
 }
