@@ -14,6 +14,7 @@ public class Aula83 {
         String[] letras = {"B","C","D","E","F"};
         String alfabeto = "";
         
+        //StringBuffer é Thread safe - Utilziar quando houver mais de 1 thread
         StringBuffer sb = new StringBuffer();
         for(String letra:letras){
             sb.append(letra);
