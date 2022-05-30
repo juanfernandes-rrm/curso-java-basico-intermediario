@@ -23,6 +23,7 @@ public class Aula90Locale {
         Locale locale = Locale.getDefault();
         System.out.println(locale);
         
+        //mostra todos os padrões
         Locale[] locales = Locale.getAvailableLocales();
         for(Locale loc: locales){
             System.out.println("Nome: "+loc.getDisplayName());    
