@@ -45,7 +45,7 @@ public class Aula93DatasJava8 {
         System.out.println(agora.isLeapYear());
         
         
-        //Hora
+        //Hora hh:mm:ss
         LocalTime hAgora = LocalTime.now();
         System.out.println(hAgora); //11:19:28.528 
         
