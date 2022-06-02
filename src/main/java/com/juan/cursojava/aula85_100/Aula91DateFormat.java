@@ -46,6 +46,7 @@ public class Aula91DateFormat {
         
         
         //String para data
+        //obs a string tem que estar no mesmo formato que o Locale
         String data = "12/05/2022 22:56";
         try {
             //De String para Date
