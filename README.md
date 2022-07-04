@@ -1,4 +1,4 @@
-# curso-java-basico
+# curso-java-basico-intermediario
 Curso de Java básico e intermediário produzido pela Loiane Groner. 
 Disponível gratuitamente em: https://loiane.training/curso/java-basico
 
